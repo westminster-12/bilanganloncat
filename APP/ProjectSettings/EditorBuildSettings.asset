@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/main.unity
+    guid: dc8f219d6b533dd46ba8329374937eb0
+  - enabled: 1
+    path: Assets/scene/pilih.unity
+    guid: 71a9b750ac7e8134ea6f1c04feebe06c
+  - enabled: 1
+    path: Assets/scene/4/2x4.unity
+    guid: 0397f27e335666444b930269fd950a53
+  - enabled: 1
+    path: Assets/scene/5/3x5.unity
+    guid: d73b46b1e621fc44097cddefdc031257
+  - enabled: 1
+    path: Assets/scene/3/4x3.unity
+    guid: 68aa4be2fb70d6749a6de8463ab54227
+  - enabled: 1
+    path: Assets/scene/2/5x2.unity
+    guid: acbafdfddab7b9f48b976232e82c1bcb
+  - enabled: 1
+    path: Assets/scene/intro.unity
+    guid: be1cf22fc0c9e734cb9f1921d3f0a25f
+  m_configObjects: {}
