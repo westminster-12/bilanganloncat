@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 6fb407b76bfb42348adb31cbd0b0dbf0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: medium_character_head
+    21300002: medium_character_right_shoulder
+    21300004: medium_character_right_arm
+    21300006: medium_character_left_shoulder
+    21300008: medium_character_left_arm
+    21300010: medium_character_torso
+    21300012: medium_character_right_thigh
+    21300014: medium_character_right_leg
+    21300016: medium_character_left_thigh
+    21300018: medium_character_left_leg
+    21300020: medium_character_right_foot
+    21300022: medium_character_left_foot
+    21300024: medium_character_right_hand
+    21300026: medium_character_left_hand
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medium_character_head
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 723
+        width: 213
+        height: 258
+      alignment: 9
+      pivot: {x: 0.4415571, y: 0.2491034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a11af163af152448f8ec7f0b64a827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_right_shoulder
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 673
+        width: 112
+        height: 307
+      alignment: 9
+      pivot: {x: 0.47777066, y: 0.816277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90687c1dc1c91d8438974e4349dca91c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_right_arm
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 726
+        width: 89
+        height: 255
+      alignment: 9
+      pivot: {x: 0.51398665, y: 0.8368375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e17c962cc681874b93e5cec6134f6af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_left_shoulder
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 672
+        width: 112
+        height: 306
+      alignment: 9
+      pivot: {x: 0.47777066, y: 0.82137865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4196c0a64786da74d8f1092247ff5d32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_left_arm
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 726
+        width: 89
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5000007, y: 0.8466007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e877606136264439c92f1ced14fa0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_torso
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 232
+        height: 577
+      alignment: 9
+      pivot: {x: 0.5214626, y: 0.14402519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a9956638917b949921b6a645b73d74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_right_thigh
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 212
+        width: 133
+        height: 385
+      alignment: 9
+      pivot: {x: 0.4719211, y: 0.8427335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937e43a23711b494c8d7a3e19e0335d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_right_leg
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 225
+        width: 124
+        height: 371
+      alignment: 9
+      pivot: {x: 0.6907403, y: 0.8925757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b187cc31e92dc5a4a9214b5483c3b68b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_left_thigh
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 212
+        width: 136
+        height: 384
+      alignment: 9
+      pivot: {x: 0.47254002, y: 0.83714247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e595829824f3846817a5b409bd485b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_left_leg
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 224
+        width: 121
+        height: 372
+      alignment: 9
+      pivot: {x: 0.7057581, y: 0.9049061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156785cd71f34d2438460440ee69a24d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_right_foot
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 37
+        width: 170
+        height: 91
+      alignment: 9
+      pivot: {x: 0.26567814, y: 0.6504748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f527de5cbdf9741a21ff579c725cee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_left_foot
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 37
+        width: 172
+        height: 92
+      alignment: 9
+      pivot: {x: 0.26116553, y: 0.6623702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c7d46f2a38edc4e9710a360b92a429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_right_hand
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 28
+        width: 108
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3962634, y: 0.79175806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7201c964a36812c41b157ee7a7394702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_character_left_hand
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 33
+        width: 109
+        height: 127
+      alignment: 9
+      pivot: {x: 0.4086354, y: 0.81365955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a28ef0a2b2e1a428aff8e52f29c2ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

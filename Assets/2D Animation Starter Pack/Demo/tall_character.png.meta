@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 1c5976c6262374e4b8b9bcf0a335382c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tall_character_torso
+    21300002: tall_character_right_shoulder
+    21300004: tall_character_right_arm
+    21300006: tall_character_left_shoulder
+    21300008: tall_character_left_arm
+    21300010: tall_character_head
+    21300012: tall_character_left_foot
+    21300014: tall_character_right_thigh
+    21300016: tall_character_right_leg
+    21300018: tall_character_left_thigh
+    21300020: tall_character_left_leg
+    21300022: tall_character_right_hand
+    21300024: tall_character_left_hand
+    21300026: tall_character_right_foot
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tall_character_torso
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 136
+        width: 229
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5217437, y: 0.08787829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13203fe525e5e745b1c5145b52700bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_right_shoulder
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 568
+        width: 102
+        height: 452
+      alignment: 9
+      pivot: {x: 0.51220435, y: 0.9048463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57172ebbde3db4f4fb4bca27ea648edb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_right_arm
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 597
+        width: 81
+        height: 422
+      alignment: 9
+      pivot: {x: 0.50000036, y: 0.9188776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134691b8f4ab01648ae0bfd5c154e6a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_left_shoulder
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 568
+        width: 101
+        height: 452
+      alignment: 9
+      pivot: {x: 0.4999994, y: 0.90760034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a520cf07cb9164c42b4873ffe954e827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_left_arm
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 597
+        width: 80
+        height: 422
+      alignment: 9
+      pivot: {x: 0.5155594, y: 0.92182755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c0ecc0884e17943a178501abfbec37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_head
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 720
+        width: 212
+        height: 284
+      alignment: 9
+      pivot: {x: 0.42366546, y: 0.27645594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afd150caab368e4abb33edc20e7fdeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_left_foot
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 599
+        width: 201
+        height: 93
+      alignment: 9
+      pivot: {x: 0.23988548, y: 0.6873943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316187825c67d5d4f9e10c2c3cb44353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_right_thigh
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 6
+        width: 126
+        height: 558
+      alignment: 9
+      pivot: {x: 0.45060173, y: 0.9127137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f8486dac9cccd41a86b475cd653551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_right_leg
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 25
+        width: 117
+        height: 539
+      alignment: 9
+      pivot: {x: 0.648954, y: 0.93650013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1d20639505a93478f7ccb31042953b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_left_thigh
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 6
+        width: 126
+        height: 559
+      alignment: 9
+      pivot: {x: 0.45060173, y: 0.9119754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ccf0ce9ebeec4ba221df8c3f077d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_left_leg
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 28
+        width: 116
+        height: 537
+      alignment: 9
+      pivot: {x: 0.6609697, y: 0.9381258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd6c7b3e14a6f84bbac231968fb1a23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_right_hand
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 388
+        width: 111
+        height: 128
+      alignment: 9
+      pivot: {x: 0.38785312, y: 0.79175806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf99632a9d949c4da4cae19b988d42a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_left_hand
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 212
+        width: 111
+        height: 128
+      alignment: 9
+      pivot: {x: 0.38785312, y: 0.81120825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8accb58471aa6a14c9635e54b10a5e07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_character_right_foot
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 8
+        width: 201
+        height: 92
+      alignment: 9
+      pivot: {x: 0.23369223, y: 0.71649283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e37e9a0fba4c45499473737e24541a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

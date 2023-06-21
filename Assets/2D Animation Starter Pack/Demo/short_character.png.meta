@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 6313de7297642bc4ea792da6c8808b1d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: short_character_head
+    21300002: short_character_right_shoulder
+    21300004: short_character_right_arm
+    21300006: short_character_left_shoulder
+    21300008: short_character_left_arm
+    21300010: short_character_torso
+    21300012: short_character_right_thigh
+    21300014: short_character_right_leg
+    21300016: short_character_left_thigh
+    21300018: short_character_left_leg
+    21300020: short_character_right_foot
+    21300022: short_character_left_foot
+    21300024: short_character_right_hand
+    21300026: short_character_left_hand
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: short_character_head
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 608
+        width: 213
+        height: 260
+      alignment: 9
+      pivot: {x: 0.42402413, y: 0.2989117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96db0dc92354e87489c61d6339f43693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_right_shoulder
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 707
+        width: 113
+        height: 158
+      alignment: 9
+      pivot: {x: 0.47796738, y: 0.7284824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471d13a450d3d1145a1f996afe87925b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_right_arm
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 730
+        width: 84
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.71366584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8805831959f4424b8ed1205017819b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_left_shoulder
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 708
+        width: 112
+        height: 160
+      alignment: 9
+      pivot: {x: 0.46665627, y: 0.7178459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f550cad9d37f6449e1f0d1034c25e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_left_arm
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 730
+        width: 84
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5148192, y: 0.71366584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38eb7d2b8fe4804b945078be840a286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_torso
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 135
+        width: 319
+        height: 381
+      alignment: 9
+      pivot: {x: 0.35951716, y: 0.26148874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87513506f2c5c0a4babe17e5fd1bde64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_right_thigh
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 472
+        width: 120
+        height: 136
+      alignment: 9
+      pivot: {x: 0.48962656, y: 0.70137024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3985c1fb96ed94ab2e810fc8481a41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_right_leg
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 472
+        width: 88
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5282919, y: 0.71427494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9214a1b68ad525c4b9b3820d4382c8d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_left_thigh
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 474
+        width: 119
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48953938, y: 0.70286185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e299ec1d8b3d944a56f708442563f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_left_leg
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 471
+        width: 85
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5292897, y: 0.7057581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561319d2e5d167b4094ff857ee795526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_right_foot
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 311
+        width: 169
+        height: 92
+      alignment: 9
+      pivot: {x: 0.25692585, y: 0.7029621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa88d4b2b7cbd0748a931e33feef1a6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_left_foot
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 309
+        width: 172
+        height: 92
+      alignment: 9
+      pivot: {x: 0.24669097, y: 0.70296246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0390d6b7280bd741a4ed0cdbe679966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_right_hand
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 139
+        width: 110
+        height: 126
+      alignment: 9
+      pivot: {x: 0.39814952, y: 0.7865096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f093b6f09fb448b8f63daebd05f6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: short_character_left_hand
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 139
+        width: 109
+        height: 129
+      alignment: 9
+      pivot: {x: 0.38579482, y: 0.7798469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1a36fc59d09b6429545435e07ec519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
